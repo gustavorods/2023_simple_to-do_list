@@ -6,6 +6,12 @@ This project involves the creation of a to-do list designed to organize and mana
 
 <br/>
 
+## Purpose
+
+The purpose of this project is to understand the implementation of the to-do list function in code and test its development on the web, providing a practical solution for task management.
+
+<br/>
+
 ## Functionality
 
 ### What is it?
@@ -15,12 +21,6 @@ It is a to-do list used to organize and track activities to be completed.
 ### How does it work?
 
 Within the page, the user can enter a task and add it to the list. This provides a simple and effective way to manage responsibilities.
-
-<br/>
-
-## Purpose
-
-The purpose of this project is to understand the implementation of the to-do list function in code and test its development on the web, providing a practical solution for task management.
 
 <br/>
 
